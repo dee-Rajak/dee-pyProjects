@@ -23,6 +23,10 @@ In Alien Invasion, the player controls a rocket ship that appears at the bottom 
     - Make sure to keep space between the ships in the fleet.
     - Fleet must be below half the screen.
 
+***Phase 3***
+- We'll make Alien Ship disappear after getting hit by bullet.
+- We'll give Ship 3 lives.
+    - if ship is hit by alien, wave restarts.
 
 
 ---
