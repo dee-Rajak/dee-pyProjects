@@ -17,6 +17,12 @@ In Alien Invasion, the player controls a rocket ship that appears at the bottom 
     - Make sure ship fires limited number of bullets
     - Make sure to delete the bullets, which are out of screen. (It consumes Memory.)
 
+***Phase 2***
+- We'll make an Alien Ship, and make a fleet out of it, and make it move, bounce off the edge, and drop down after each bounce off.
+    - Make sure Alien ship doesn't go off the edges.
+    - Make sure to keep space between the ships in the fleet.
+    - Fleet must be below half the screen.
+
 
 
 ---
