@@ -13,6 +13,9 @@ In Alien Invasion, the player controls a rocket ship that appears at the bottom 
 
 ***Phase 1***
 - We’ll make a ship that can move right and left and fires bullets when the player presses the spacebar.
+    - Make sure ship don't go out of edges.
+    - Make sure ship fires limited number of bullets
+    - Make sure to delete the bullets, which are out of screen. (It consumes Memory.)
 
 
 
