@@ -28,6 +28,11 @@ In Alien Invasion, the player controls a rocket ship that appears at the bottom 
 - We'll give Ship 3 lives.
     - if ship is hit by alien, wave restarts.
 
+***Phase 4***
+- We add something for game statistics.
+- Count Ship live
+- Count game score.
+- Count wave number.
 
 ---
 
